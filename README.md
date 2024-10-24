@@ -1,0 +1,2 @@
+# docs
+Mintlify test
